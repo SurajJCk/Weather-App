@@ -42,7 +42,8 @@ const apiKey = 'YOUR_API_KEY';
 
 Screenshots
 
-Screenshots![weatherapp](https://github.com/SurajJCk/Weather-App/assets/33105027/2cea18b0-d251-432b-8823-dac9bb05f6cd)
+![weatherapp](https://github.com/SurajJCk/Weather-App/assets/33105027/5f2d710f-e94c-4caa-8235-ef68114705c6)
+
 
 Contributions are welcome! If you have any improvements or new features to add, please follow these steps:
 
